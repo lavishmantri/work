@@ -1,0 +1,15 @@
+- [ ] Flights
+- [ ] Hotel
+	- [ ] Hotel 1
+	- [ ] Hotel 2 - Luma
+	- [ ] Hotel 3
+- [ ] Phone bills
+- [ ] Uber
+- [ ] Waymo
+- [ ] Doordash
+- [ ] USMobile
+- [ ] Clipper card
+- [ ] Muni mobile
+- [ ] Car
+- [ ] Bayareafasttrack
+- [ ] IGST on forex charges
