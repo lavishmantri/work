@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reimbursements/02_US Trip September.md",
+                "file": "Reimbursements/03_US Trip December.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_US Trip September"
+              "title": "03_US Trip December"
             }
           }
         ],
@@ -227,13 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfb939dbcf90870c",
+  "active": "74b8c270b193e671",
   "lastOpenFiles": [
+    "Reimbursements/02_US Trip September.md",
     "Reimbursements/03_US Trip December.md",
     "Reimbursements/06_Lunch and office grocery reimbursements.md",
     "Reimbursements/07_US Visa Renewal.md",
     "Reimbursements/00_README.md",
-    "Reimbursements/02_US Trip September.md",
     "Reimbursements/01_US Trip May.md",
     "Reimbursements/Untitled.md",
     "Reimbursements/04_Wellness.md",
