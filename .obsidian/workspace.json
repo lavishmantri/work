@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4eb777b36c374c",
+        "id": "2827e37ea54fbf60",
         "type": "tabs",
         "children": [
           {
-            "id": "d5dc208cecd135e6",
+            "id": "1be49c5259040941",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reimbursements/00_README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00_README"
-            }
-          },
-          {
-            "id": "d768a726e07f8cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reimbursements/00_README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00_README"
-            }
-          },
-          {
-            "id": "b74618542acc9a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reimbursements/00_README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00_README"
-            }
-          },
-          {
-            "id": "74b8c270b193e671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reimbursements/03_US Trip December.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03_US Trip December"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74b8c270b193e671",
+  "active": "bfb939dbcf90870c",
   "lastOpenFiles": [
     "Reimbursements/02_US Trip September.md",
     "Reimbursements/03_US Trip December.md",
