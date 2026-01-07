@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Tasks/00_Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "00_Todo"
             }
           }
         ]
@@ -184,10 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfb939dbcf90870c",
+  "active": "1be49c5259040941",
   "lastOpenFiles": [
-    "Reimbursements/01_US Trip May.md",
+    "Tasks/02_Done.md",
+    "Tasks/00_Todo.md",
+    "Tasks/03_Cancelled.md",
+    "Tasks/01_Current.md",
     "Tasks.md",
+    "Tasks",
+    "Reimbursements/01_US Trip May.md",
     "Reimbursements/02_US Trip September.md",
     "Reimbursements/03_US Trip December.md",
     "Reimbursements/06_Lunch and office grocery reimbursements.md",
