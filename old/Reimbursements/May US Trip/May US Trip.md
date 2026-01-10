@@ -1,0 +1,23 @@
+## Infinia credit card statement expenses
+### April 25 - No expenses for the trip
+
+### May 25
+- Flight ticket - 255580
+- CHENNAI KINGS - 34.93$ - INR 3003.23
+- TST GOODFELLAS PIZZERIA - 27.93$ - INR 2401.38
+- SFMTA MUNI MOBILE - 5.50$ - INR 472.88
+- CONSOLIDATED FCY MARKUP FEE - INR 445.17
+
+### June 25
+- Uber trip - 11.93$ - INR 1019.95
+- Uber trip - 11.91$ - INR 1021.23
+- SFMTA MUNI - 8$ - INR 685.97
+- MTA METER - $1.6 - INR 137.13
+- BLK MARKET LIVERMORE - $ 16.49 - INR 1413.32
+- CHAAT CAFE - $15.02 - INR 1287.33
+- KLM - $67.20 - INR 5759.54
+- BUDGET RENTA CAR - $192.02 - INR 16457.54
+- FASTRACK - $25 - INR 2142.69
+- KLM AIRLINE - $715.50 - INR 61323.67
+- TMA METER - $8.60 
+- 
