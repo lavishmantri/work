@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "600e707860ec0d94",
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1be49c5259040941",
+  "active": "bfb939dbcf90870c",
   "lastOpenFiles": [
     "old/Reimbursements/May US Trip/May US Trip.md",
     "old/Reimbursements/Yearly Tax filing reimbursements.md",
