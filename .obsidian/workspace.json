@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/00_Todo.md",
+                "file": "Total reimbursement to expect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Todo"
+              "title": "Total reimbursement to expect"
             }
           }
         ]
@@ -184,8 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfb939dbcf90870c",
+  "active": "1be49c5259040941",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Total reimbursement to expect.md",
+    "US Trip - December/Questions for the Product.md",
+    "Tasks/00_Todo.md",
     "old/Reimbursements/May US Trip/May US Trip.md",
     "old/Reimbursements/Yearly Tax filing reimbursements.md",
     "old/Reimbursements/Reimbursements - TBD - 26 Nov.md",
@@ -194,9 +198,7 @@
     "old/Reimbursements",
     "old",
     "untitled folder",
-    "Total reimbursement to expect.md",
     "Tasks/02_Done.md",
-    "Tasks/00_Todo.md",
     "Tasks/03_Cancelled.md",
     "Tasks/01_Current.md",
     "Tasks.md",
@@ -210,9 +212,7 @@
     "Reimbursements/Untitled.md",
     "Reimbursements/04_Wellness.md",
     "Reimbursements/05_Broadband.md",
-    "US Trip - December/Questions for the Product.md",
     "Reimbursements",
-    "Welcome.md",
     "US Trip - December"
   ]
 }
