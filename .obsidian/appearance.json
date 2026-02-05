@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "ideaverse-callouts"
+  ],
+  "cssTheme": "AnuPpuccin"
+}

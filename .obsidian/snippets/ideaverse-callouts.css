@@ -1,0 +1,80 @@
+/* Ideaverse-style Callouts
+ * Custom callout styles for consistent look across all vaults
+ * Enable in: Settings → Appearance → CSS Snippets
+ */
+
+/* Idea callout - for capturing new ideas */
+.callout[data-callout="idea"] {
+  --callout-color: 255, 214, 102;
+  --callout-icon: lightbulb;
+}
+
+.callout[data-callout="idea"] .callout-title {
+  font-weight: 600;
+}
+
+/* Question callout - for things to explore */
+.callout[data-callout="question"] {
+  --callout-color: 136, 192, 208;
+  --callout-icon: help-circle;
+}
+
+/* Summary callout - for key takeaways */
+.callout[data-callout="summary"] {
+  --callout-color: 163, 190, 140;
+  --callout-icon: list;
+}
+
+/* Reference callout - for source materials */
+.callout[data-callout="reference"] {
+  --callout-color: 180, 142, 173;
+  --callout-icon: book;
+}
+
+/* Map callout - for Maps of Content navigation */
+.callout[data-callout="map"] {
+  --callout-color: 235, 203, 139;
+  --callout-icon: map;
+}
+
+/* Capture callout - for inbox items */
+.callout[data-callout="capture"] {
+  --callout-color: 208, 135, 112;
+  --callout-icon: inbox;
+}
+
+/* Effort callout - for active projects/goals */
+.callout[data-callout="effort"] {
+  --callout-color: 129, 161, 193;
+  --callout-icon: target;
+}
+
+/* Person callout - for people notes */
+.callout[data-callout="person"] {
+  --callout-color: 191, 97, 106;
+  --callout-icon: user;
+}
+
+/* Expense callout - for financial items */
+.callout[data-callout="expense"] {
+  --callout-color: 163, 190, 140;
+  --callout-icon: dollar-sign;
+}
+
+/* Link callout - for cross-vault links */
+.callout[data-callout="link"] {
+  --callout-color: 136, 192, 208;
+  --callout-icon: external-link;
+}
+
+/* Archive callout - for completed/archived items */
+.callout[data-callout="archive"] {
+  --callout-color: 148, 148, 148;
+  --callout-icon: archive;
+}
+
+/* Daily callout - for daily note sections */
+.callout[data-callout="daily"] {
+  --callout-color: 235, 203, 139;
+  --callout-icon: calendar;
+}

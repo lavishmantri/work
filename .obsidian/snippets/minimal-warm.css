@@ -1,0 +1,110 @@
+/* Minimal Theme - Warm Color Overrides
+ * Soft paper feel with warm sepia tones
+ * Use with Minimal theme + Style Settings plugin
+ * Enable in: Settings → Appearance → CSS Snippets
+ */
+
+.theme-light {
+  /* Warm background colors */
+  --background-primary: #faf8f5;
+  --background-secondary: #f5f2ed;
+  --background-secondary-alt: #ebe7e0;
+  --background-modifier-border: #e0dcd4;
+
+  /* Warm text colors */
+  --text-normal: #3d3833;
+  --text-muted: #6e665c;
+  --text-faint: #9a9087;
+
+  /* Accent color - soft amber */
+  --interactive-accent: #c9956c;
+  --interactive-accent-hover: #b8845b;
+
+  /* Link colors */
+  --link-color: #8b6c4e;
+  --link-color-hover: #a67d5a;
+  --link-external-color: #7a8f6e;
+
+  /* Heading colors */
+  --h1-color: #4a443d;
+  --h2-color: #5a544c;
+  --h3-color: #6a635a;
+  --h4-color: #7a7268;
+  --h5-color: #8a8176;
+  --h6-color: #9a9084;
+
+  /* Tag colors */
+  --tag-color: #7a6a5a;
+  --tag-background: #ebe7e0;
+
+  /* Inline code */
+  --code-normal: #5c5347;
+  --code-background: #f0ece5;
+}
+
+.theme-dark {
+  /* Warm dark background */
+  --background-primary: #2d2a26;
+  --background-secondary: #363330;
+  --background-secondary-alt: #3f3c38;
+  --background-modifier-border: #4a4640;
+
+  /* Warm dark text */
+  --text-normal: #d4cec5;
+  --text-muted: #a89f94;
+  --text-faint: #7d756a;
+
+  /* Accent color - soft amber */
+  --interactive-accent: #c9956c;
+  --interactive-accent-hover: #d9a57c;
+
+  /* Link colors */
+  --link-color: #c9a67c;
+  --link-color-hover: #d9b68c;
+  --link-external-color: #9aab8e;
+
+  /* Tag colors */
+  --tag-color: #c9b69c;
+  --tag-background: #3f3c38;
+}
+
+/* Comfortable reading width */
+.markdown-preview-view,
+.markdown-source-view {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+/* Softer blockquotes */
+.markdown-preview-view blockquote,
+.markdown-source-view blockquote {
+  border-left-color: #c9956c;
+  background-color: rgba(201, 149, 108, 0.08);
+}
+
+/* Softer horizontal rules */
+.markdown-preview-view hr {
+  border-color: #e0dcd4;
+}
+
+.theme-dark .markdown-preview-view hr {
+  border-color: #4a4640;
+}
+
+/* Checkbox styling */
+.markdown-preview-view .task-list-item-checkbox {
+  border-color: #c9956c;
+}
+
+.markdown-preview-view .task-list-item-checkbox:checked {
+  background-color: #c9956c;
+  border-color: #c9956c;
+}
+
+/* Highlight styling */
+.markdown-preview-view mark,
+.markdown-source-view mark {
+  background-color: rgba(235, 203, 139, 0.4);
+  padding: 0.1em 0.2em;
+  border-radius: 3px;
+}
