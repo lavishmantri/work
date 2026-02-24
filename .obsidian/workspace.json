@@ -199,8 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18e447d890ebf5f1",
+  "active": "bfb939dbcf90870c",
   "lastOpenFiles": [
+    "Efforts",
+    "Calendar",
+    "Atlas",
+    "+",
     "Total reimbursement to expect.md",
     "Untitled.md",
     "Tasks/00_Todo.md",
@@ -232,8 +236,6 @@
     "Reimbursements/00_README.md",
     "Reimbursements/Untitled.md",
     "Reimbursements/04_Wellness.md",
-    "Reimbursements/05_Broadband.md",
-    "Reimbursements",
-    "US Trip - December"
+    "Reimbursements"
   ]
 }
