@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "May US Trip"
             }
+          },
+          {
+            "id": "82533b3ffeb2b984",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1be49c5259040941",
+  "active": "82533b3ffeb2b984",
   "lastOpenFiles": [
     "old/Reimbursements/Bali trip.md",
     "old/Reimbursements/Reimbursements - TBD - 26 Nov.md",
